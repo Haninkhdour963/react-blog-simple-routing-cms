@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-blog-simple-routing-cms/static/css/main.084828c6.css",
+    "main.js": "/react-blog-simple-routing-cms/static/js/main.7758a469.js",
+    "static/js/929.59f8530f.chunk.js": "/react-blog-simple-routing-cms/static/js/929.59f8530f.chunk.js",
+    "static/js/484.c4bef1de.chunk.js": "/react-blog-simple-routing-cms/static/js/484.c4bef1de.chunk.js",
+    "index.html": "/react-blog-simple-routing-cms/index.html",
+    "static/media/post-2.md": "/react-blog-simple-routing-cms/static/media/post-2.6228cedf1f03ef4fa80a.md",
+    "static/media/post-1.md": "/react-blog-simple-routing-cms/static/media/post-1.14784696dcc1ae52d139.md",
+    "main.084828c6.css.map": "/react-blog-simple-routing-cms/static/css/main.084828c6.css.map",
+    "main.7758a469.js.map": "/react-blog-simple-routing-cms/static/js/main.7758a469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084828c6.css",
+    "static/js/main.7758a469.js"
+  ]
+}
