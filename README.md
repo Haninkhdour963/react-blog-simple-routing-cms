@@ -1,4 +1,50 @@
 # Getting Started with Create React App
+# 📝 React Blog CMS (Markdown + Routing)
+
+A modern blog content management system built with **React**, featuring:
+
+- 📄 Dynamic Markdown content rendering
+- 🧭 Client-side routing with React Router
+- 📂 File-based blog post organization
+- 🖋 Clean, responsive UI
+- 🌓 Built-in dark mode support
+
+---
+
+## 📸 Live Demo
+
+🌐 **View Live:** [https://Haninkhdour963.github.io/react-blog-simple-routing-cms]
+
+---
+
+## ✨ Features
+
+- Multi-page routing with `react-router-dom`
+- Markdown file support with `react-markdown`
+- Auto-generated post URLs (`/post/:slug`)
+- Fallback for missing posts (404 handler)
+- Fully responsive layout and clean design
+- Dark mode via `prefers-color-scheme`
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React
+- 📦 Create React App
+- 🧭 React Router DOM
+- 📝 React Markdown
+- 💅 Custom CSS
+
+---
+
+## 🧠 What I Learned
+
+- Structuring content-based apps in React
+- Programmatic dynamic routing (`useParams`)
+- Markdown parsing and rendering in JSX
+- Styling markdown content with custom CSS
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
